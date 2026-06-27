@@ -30,39 +30,62 @@ Atualmente meus principais focos são:
 
 # 💻 Stack
 
-### Front-end
+### 💻 Linguagens
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+---
+
+### 🎨 Front-end
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer)
 
-### Back-end
+---
 
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+### ⚙️ Back-end
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Session_Auth-4CAF50?style=for-the-badge)
 
-### Banco de Dados
+---
+
+### 🗄️ Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### IA e Automação
-
-- OpenAI GPT-4o
-- Claude API
-- n8n
-- Webhooks
-- WAHA
-- Ollama
-- Llama
-- DeepSeek
-- Qwen
-- Gemma
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 
 ---
+
+### 🤖 IA & Automação
+
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=for-the-badge&logo=openai)
+![Claude](https://img.shields.io/badge/Claude_API-D97706?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n)
+![Webhooks](https://img.shields.io/badge/Webhooks-2563EB?style=for-the-badge)
+![Google Sheets API](https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=googlesheets)
+![WAHA](https://img.shields.io/badge/WAHA-25D366?style=for-the-badge&logo=whatsapp)
+
+---
+
+### 🚀 DevOps & Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-3776AB?style=for-the-badge&logo=python)
 
 # 🚀 Projetos em Destaque
 
